@@ -62,5 +62,5 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gouravchahar13&theme=vue-dark&hide_border=true" align="center" /></div>  
 <br/>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouravchahar1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" align="center" /></div>  
+
 <br/>  
