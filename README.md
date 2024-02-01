@@ -64,7 +64,7 @@
 <br/>
 
 <br/>  
-**stats**
+
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouravchahar13&layout=compact&theme=gotham" alt=githubber-me />
 
